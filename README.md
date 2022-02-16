@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CapeFear-Crypto
+- 👀 I’m interested in cryptocurrency trading
+- 🌱 I’m currently learning automated trading strategies
+- 💞️ I’m looking to collaborate on pinescript 
+- 📫 How to reach me capefearcrypto@protonmail.com
